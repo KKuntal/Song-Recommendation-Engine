@@ -6,12 +6,6 @@ Million Songs Dataset contains of two files: triplet_file and metadata_file. The
 
 There are 3 types of recommendation system: content-based, collaborative and popularity.
 
-**Download links:-** 
-https://static.turi.com/datasets/millionsong/10000.txt
-https://static.turi.com/datasets/millionsong/song_data.csv
-
-**Note:** Please check the repository for dataset files if the links are not working
-
 # Libraries used
 
 <li>pandas
